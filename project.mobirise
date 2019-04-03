@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SMRYT",
-    "currentPage": "news.html",
+    "currentPage": "tech.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -43,7 +43,7 @@
       "settings": {
         "main": true,
         "title": "SMRYTC",
-        "meta_descr": "",
+        "meta_descr": "Sarvesh M Rao Youtube Channel",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -590,7 +590,7 @@
     },
     "logo.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "Explanation Of SMRYTC's Logo",
         "title": "Our Logo",
         "order": 4
       },
@@ -1137,7 +1137,7 @@
     },
     "about.html": {
       "settings": {
-        "meta_descr": "Website Builder Description",
+        "meta_descr": "About SMRYTC",
         "title": "About Us",
         "order": 5
       },
@@ -1680,7 +1680,7 @@
     },
     "app.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
+        "meta_descr": "Official Android App Of SMRYTC",
         "title": "App",
         "order": 6
       },
@@ -2227,8 +2227,8 @@
     },
     "tech.html": {
       "settings": {
-        "meta_descr": "Web Page Creator Description",
-        "title": "Tech Broadcast",
+        "meta_descr": "Official WA Tech Broadcast Of SMRYTC",
+        "title": "WA Tech Broadcast",
         "order": 7
       },
       "components": [
@@ -2784,7 +2784,7 @@
     },
     "contact.html": {
       "settings": {
-        "meta_descr": "Website Creator Description",
+        "meta_descr": "Contact SMRYTC",
         "title": "Contact Us",
         "order": 8
       },
@@ -3426,7 +3426,7 @@
     },
     "save.html": {
       "settings": {
-        "meta_descr": "Website Generator Description",
+        "meta_descr": "Save Contact Of SMRYTC For WA Broadcast",
         "title": "Save Contact",
         "order": 3
       },
@@ -4433,7 +4433,7 @@
     },
     "news.html": {
       "settings": {
-        "meta_descr": "Web Generator Description",
+        "meta_descr": "Tech News From Sarvesh M Rao Youtube Channel",
         "title": "Tech News",
         "order": 1
       },
