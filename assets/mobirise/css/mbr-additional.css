@@ -5277,6 +5277,102 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-rmShfuX7bd {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmShfuX7bd .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmSf5dQahD {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rmSf5dQahD .card-img {
+  background-color: #fff;
+}
+.cid-rmSf5dQahD .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rmSf5dQahD h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rmSf5dQahD p {
+  text-align: left;
+}
+.cid-rmSf5dQahD .mbr-text {
+  color: #767676;
+}
+.cid-rmSf5dQahD .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rmSf5dQahD .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rmSf5dQahD .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-rmSf3GV3gQ {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rmSf3GV3gQ .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rmSdBR8uXW {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-rmSdBR8uXW .card-img {
+  background-color: #fff;
+}
+.cid-rmSdBR8uXW .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-rmSdBR8uXW h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rmSdBR8uXW p {
+  text-align: left;
+}
+.cid-rmSdBR8uXW .mbr-text {
+  color: #767676;
+}
+.cid-rmSdBR8uXW .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rmSdBR8uXW .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-rmSdBR8uXW .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-rmMm1TlYoY {
   padding-top: 60px;
   padding-bottom: 60px;
