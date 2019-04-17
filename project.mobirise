@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "SMRYT",
-    "currentPage": "logo.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,8 @@
     "noImageResize": "",
     "uniqCompNum": 32,
     "versionPublish": "4.9.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138515388-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138515388-1');\r\n</script>"
   },
   "pages": {
     "index.html": {
@@ -4530,7 +4531,7 @@
       "settings": {
         "meta_descr": "Tech News From Sarvesh M Rao Youtube Channel",
         "title": "Tech News",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -7378,7 +7379,7 @@
       "settings": {
         "meta_descr": "Error 404 Not Found",
         "title": "Error 404 Not Found",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
