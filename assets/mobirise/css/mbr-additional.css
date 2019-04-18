@@ -5280,6 +5280,102 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/background4.jpg");
 }
+.cid-ro0v9fbb5H {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ro0v9fbb5H .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ro0v8iIfwM {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-ro0v8iIfwM .card-img {
+  background-color: #fff;
+}
+.cid-ro0v8iIfwM .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-ro0v8iIfwM h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ro0v8iIfwM p {
+  text-align: left;
+}
+.cid-ro0v8iIfwM .mbr-text {
+  color: #767676;
+}
+.cid-ro0v8iIfwM .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ro0v8iIfwM .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-ro0v8iIfwM .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
+.cid-ro0v6l8mXY {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-ro0v6l8mXY .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-ro0v3z0Ab0 {
+  padding-top: 90px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-ro0v3z0Ab0 .card-img {
+  background-color: #fff;
+}
+.cid-ro0v3z0Ab0 .card-box {
+  padding: 2rem;
+  background-color: #ffffff;
+}
+.cid-ro0v3z0Ab0 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-ro0v3z0Ab0 p {
+  text-align: left;
+}
+.cid-ro0v3z0Ab0 .mbr-text {
+  color: #767676;
+}
+.cid-ro0v3z0Ab0 .card-wrapper {
+  height: 100%;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-ro0v3z0Ab0 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+@media (min-width: 992px) {
+  .cid-ro0v3z0Ab0 .my-col {
+    flex: 0 0 20%;
+    max-width: 20%;
+    padding: 15px;
+    -webkit-flex: 0 0 20%;
+  }
+}
 .cid-rnD9cG4Ocd {
   padding-top: 60px;
   padding-bottom: 60px;
