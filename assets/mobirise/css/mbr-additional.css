@@ -5325,11 +5325,6 @@ body {
   padding-bottom: 15px;
   background-image: url("../../../assets/images/background4.jpg");
 }
-.cid-rpjC2OLjQg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/background4.jpg");
-}
 .cid-rozxtGVBTT {
   padding-top: 60px;
   padding-bottom: 60px;
@@ -8613,37 +8608,6 @@ a.btn-white:not([href]):not([tabindex]) {
 }
 textarea.form-control {
   min-height: 188px;
-}
-}
-
-.cid-rpjBoBHpC4 {
-@fullScreen: false;
-@paddingTop: 6;
-@paddingBottom: 6;
-@showTitle: true;
-@showSubTitle: true;
-@showText: true;
-@showButtons: true;
-@uname__12: "../../app/themes/mobirise4/components/header1/../_images/background4.jpg";
-@uname__13: true;
-@uname__14: #7f1933;
-@bg-value: "../../app/themes/mobirise4/components/header1/../_images/background4.jpg";
-@bg-type: "image";
-@bg-color-value: #7f1933;
-@bg-parallax: true;
-@overlay: true;
-@overlayColor: #149dcc;
-@overlayOpacity: 0.6;
-
-& when not (@fullScreen) {
-  padding-top: (@paddingTop * 15px);
-  padding-bottom: (@paddingBottom * 15px);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
 }
 }
 .cid-rm6Wo7awAq .navbar {
