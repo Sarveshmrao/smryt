@@ -37,7 +37,7 @@
     "uniqCompNum": 34,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138515388-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138515388-1');\r\n</script>\r\n\r\n<script src=\"https://sedits.pushify.com/script.js?category=5a9685e6facb4fac148bafc3\"></script>"
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-138515388-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-138515388-1');\r\n</script>\r\n\r\n<script src=\"https://sedits.pushify.com/script.js?category=5a9685e6facb4fac148bafc3\"></script>\r\n\r\n\r\n<script async src=\"//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script>\r\n<script>\r\n     (adsbygoogle = window.adsbygoogle || []).push({\r\n          google_ad_client: \"ca-pub-2695184726264073\",\r\n          enable_page_level_ads: true\r\n     });\r\n</script>"
   },
   "pages": {
     "index.html": {
