@@ -8611,14 +8611,14 @@ textarea.form-control {
 }
 }
 
-.cid-rpkKqO3BTf {
-@fullScreen: true;
-@paddingTop: 9;
-@paddingBottom: 9;
-@showTitle: false;
-@showSubTitle: false;
+.cid-rpkMXBjGRQ {
+@fullScreen: false;
+@paddingTop: 6;
+@paddingBottom: 6;
+@showTitle: true;
+@showSubTitle: true;
 @showText: true;
-@showButtons: false;
+@showButtons: true;
 @uname__12: "../../app/themes/mobirise4/components/header1/../_images/background4.jpg";
 @uname__13: true;
 @uname__14: #7f1933;
