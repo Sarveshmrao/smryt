@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "snetworks.smryt.new"
+    versionCode = "10"
+    version     = "1.0.2" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>SMRYT</name>
+
+  <description>
+     THis Is An App For Sarvesh M Rao YouTube Channel
+  </description>
+
+  <author href="https://www.smryt.ml" email="youtube@snetworks.ml">
+      Sarvesh M Rao
+  </author>
+
+</widget>
