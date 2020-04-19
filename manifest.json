@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "SMRYTC",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://www.smryt.ml/",
+	"short_name" : "SMRYTC",
+	"theme_color" : "transparent",
+	"description" : "Sarvesh M Rao Youtube Channel",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : [],
+	"prefer_related_applications" : false,
+	"icons" : [
+		{
+			"src": "https://www.smryt.ml/assets/images/d0ca68a8-9d3f-43cc-92ad-8328285d79e3-122x122.png",
+			"sizes": "122x122"
+		}],
+	"url" : "https://www.smryt.ml",
+	"generated" : "true"
+}
